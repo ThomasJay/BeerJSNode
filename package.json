@@ -1,0 +1,23 @@
+{
+  "name": "beerjsnode",
+  "version": "1.0.0",
+  "description": "Training app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThomasJay/BeerJSNode.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ThomasJay/BeerJSNode/issues"
+  },
+  "homepage": "https://github.com/ThomasJay/BeerJSNode#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "uuid": "^3.3.3"
+  }
+}
